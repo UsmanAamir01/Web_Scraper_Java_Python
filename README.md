@@ -40,18 +40,24 @@ pip install aiohttp asyncio aiofiles beautifulsoup4 requests
 
 
 
----
 
-**Java Setup & Installation**
-#### 1️⃣ Install Java (JDK 17 or later)
-Ensure that you have JDK 17 or later installed on your system. You can download the JDK from the official Oracle website:
 
-Download JDK 17
-After installation, confirm that Java is installed correctly by running:
+
+### **Java Setup & Installation**
+
+#### **1️⃣ Install Java (JDK 17 or later)**
+Ensure that you have **JDK 17** or later installed on your system. You can download the JDK from the official Oracle website:  
+[Download JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+
+After installation, confirm that Java is installed correctly by running the following command:
 
 ```bash
 java -version
-#### 2️⃣ Install Maven
-If you don’t have Maven installed, you can download it from:
 
-Maven Download Page
+**WebScrapingProject**
+│
+├── scraper.py              # Python script for scraping NeurIPS Papers
+├── scraper.java            # Java class for scraping NeurIPS Papers
+├── pom.xml                 # Maven file containing Java dependencies
+├── README.md               # Documentation with setup and instructions
+└── webscraping_blog.docs   # Blog post about the web scraping project
