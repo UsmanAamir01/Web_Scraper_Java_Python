@@ -38,6 +38,10 @@ You can install all the required libraries by running the following command in y
 pip install aiohttp asyncio aiofiles beautifulsoup4 requests
 
 
+
+
+---
+
 **Java Setup & Installation**
 #### 1️⃣ Install Java (JDK 17 or later)
 Ensure that you have JDK 17 or later installed on your system. You can download the JDK from the official Oracle website:
