@@ -34,9 +34,9 @@ The following Python libraries are required to run the scraper:
 
 You can install all the required libraries by running the following command in your terminal:
 
-```bash
-pip install aiohttp asyncio aiofiles beautifulsoup4 requests
----
+
+**pip install aiohttp asyncio aiofiles beautifulsoup4 requests**
+
 
 
 
